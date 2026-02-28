@@ -1,0 +1,4 @@
+autogluon==1.4.0
+pandas
+numpy
+pyarrow
